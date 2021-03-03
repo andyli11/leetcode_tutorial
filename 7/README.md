@@ -4,25 +4,25 @@ Given a signed 32-bit integer ``x``, return ``x`` *with its digits reversed*. If
 
 **Example 1:**
 ```python
-Input:  x = 123
+Input: x = 123
 Output: 321
 ```
 
 **Example 2:**
 ```python
-Input:  x = -123
+Input: x = -123
 Output: -321
 ```
 
 **Example 3:**
 ```python
-Input:  x = 120
+Input: x = 120
 Output: 21
 ```
 
 **Example 4:**
 ```python
-Input:  x = 0
+Input: x = 0
 Output: 0
 ```
 
